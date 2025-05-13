@@ -1,0 +1,2 @@
+created a file
+name given to file is file1.txt.
